@@ -1,3 +1,3 @@
 # hello-word
-just my first repository ..... .nt laugh
+just my first repository ..... 
 hello hello all
